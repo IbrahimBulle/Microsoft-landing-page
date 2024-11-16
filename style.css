@@ -236,6 +236,7 @@ ul{
         opacity: .9;
         padding: 30px 0;
         border-radius: 10px;
+        transition: all 0.7s ease-in-out;
     }
     .main-nav ul.main-menu li{
         padding: 10px;
